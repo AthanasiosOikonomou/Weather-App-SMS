@@ -1,6 +1,6 @@
 # Weather-App-SMS
 
-I created this app for pesonal use. To learn how to use API requests and twilio.
+I created this app for pesonal use. To learn how to use API requests, twilio and python anywhere.
 
 ## Getting Started
 
